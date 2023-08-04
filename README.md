@@ -1,4 +1,4 @@
-# U.S-SUPERSTORE-SALES-DATA
+# U.S-SUPERSTORE-SALES-DATA (2014-2017)
 
 ## Description 
 The analysis carried out on the U.S. Superstore Sales Data was extensive, encompassing various critical aspects of the superstore's sales and operational performance. The primary objective of the analysis was to gain valuable insights into the business by exploring all relevant variables available in the dataset. Some of the key variables examined in the analysis included sales revenue, product categories, customer information, shipping details, discounts, and profits, among others.
@@ -82,6 +82,9 @@ This task was done by placing the "Profit" column in the "Values" section of the
 -	Insight 
 
 This shows that the year 2017 stands out with the highest profit of $93,439. This indicates a strong financial performance and potential for continued growth in the subsequent years. From 2014 to 2017, there is a positive trend in profit growth, indicating the superstore's improving financial performance.  The increasing profit trend suggests that the superstore's business strategies, cost management, and revenue generation efforts have been effective in driving profitability.
+
+## KPIs
+
 
 
 ## Tool Used
