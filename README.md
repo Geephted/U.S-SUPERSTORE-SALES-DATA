@@ -1,3 +1,5 @@
+![](images1.jpeg)
+
 # U.S-SUPERSTORE-SALES-DATA (2014-2017)
 
 ## Description 
@@ -6,7 +8,7 @@ The analysis carried out on the U.S. Superstore Sales Data was extensive, encomp
 ## Data Set 
 The data set used is the U.S. Superstore Sales data, which is a single data file in a comma-separated values (CSV) format. Each row in the dataset represents a unique record, containing relevant variables pertaining to the sales transactions at the superstore. The dataset is structured with columns containing different information for each record. 
 
-![](Dataset1.jpg)
+![](Dataset1.jpg) 
 
 ### Data Preprocessing/Cleaning 
 The dataset was imported into Microsoft Excel for cleaning. The dataset was checked for duplicates, invalid entries, missing values, incorrect data types and issues from data entry. 
