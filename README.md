@@ -6,15 +6,16 @@ The analysis carried out on the U.S. Superstore Sales Data was extensive, encomp
 ## Data Set 
 The data set used is the U.S. Superstore Sales data, which is a single data file in a comma-separated values (CSV) format. Each row in the dataset represents a unique record, containing relevant variables pertaining to the sales transactions at the superstore. The dataset is structured with columns containing different information for each record. 
 
-![](dataset1.jpg)
+![](Dataset1.jpg)
 
 ### Data Preprocessing/Cleaning 
 The dataset was imported into Microsoft Excel for cleaning. The dataset was checked for duplicates, invalid entries, missing values, incorrect data types and issues from data entry. 
 No duplicates were found, and incorrect column data types were changed to the appropriate data types, e.g. date column having a number data type was changed to the date data type to ensure accuracy in analysis. A new column was added to the data set named “Total Revenue” by multiplying each row in the “Sales” column with each row “Quantity” column. I.e. S2*T2
 
-![](dataclean.jpg)
+![](cleandata.jpg)
 
-##Data Analysis 
+## Data Analysis 
+
 The analysis of the U.S. Superstore Sales Data aims to gain valuable insights into the superstore's sales and operational performance. By exploring all relevant variables available in the dataset, several business questions were answered to better understand and optimize the superstore's operations. Here are a few such questions:
 
 #### Identify the top 5 selling products and bottom 5 selling products in terms of revenue generated.
