@@ -85,7 +85,16 @@ This task was done by placing the "Profit" column in the "Values" section of the
 
 This shows that the year 2017 stands out with the highest profit of $93,439. This indicates a strong financial performance and potential for continued growth in the subsequent years. From 2014 to 2017, there is a positive trend in profit growth, indicating the superstore's improving financial performance.  The increasing profit trend suggests that the superstore's business strategies, cost management, and revenue generation efforts have been effective in driving profitability.
 
-## KPIs
+## KPI
+
+![](kp1.jpg)
+
+Above is the key performance index for the store, they were calculated as follows:
+
+- Total Profit: The total profit from 2014-2017 was calculated using the SUM function to add up all the values in the profit column.
+- Total quantity of Item sold: The total quantity of item sold from 2014-2017 was calculated using the SUM function to add up all the values in the quantity column.
+ - Average Profit: The AVERAGE function was used to calculate the average profit from 2014 to 2017
+- Number of Customers: To get the number of customers that use our store, the COUNT and UNIQUE function was used to count distinct values in the customer id column.
 
 
 
