@@ -87,7 +87,7 @@ This shows that the year 2017 stands out with the highest profit of $93,439. Thi
 
 ## KPI
 
-![](kp1.jpg)
+![](kp11.jpg)
 
 Above is the key performance index for the store, they were calculated as follows:
 
