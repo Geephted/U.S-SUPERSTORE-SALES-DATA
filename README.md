@@ -33,6 +33,15 @@ The analysis highlights the products that have the potential to significantly co
 
 The low revenue figures indicate that these products may not be in high demand among customers. It suggests that there is limited interest or need for these specific products.
 
+#### IN WHAT YEAR DID THE SUPERSTORE MADE MORE PROFIT?
+This task was done by placing the "Profit" column in the "Values" section of the pivot table, while the "Order Date" column was placed in the "Rows" section of the pivot table field. By doing so, the pivot table automatically aggregated the data, providing the sum of profit for order, then when ahead to “Group” area on the ribbon to group the order made yearly to achieve the profit made yearly. Then pivot chart was used to give a visual representation of the data
+
+![](profit.jpg)
+
+-	Insight 
+
+This shows that the year 2017 stands out with the highest profit of $93,439. This indicates a strong financial performance and potential for continued growth in the subsequent years. From 2014 to 2017, there is a positive trend in profit growth, indicating the superstore's improving financial performance.  The increasing profit trend suggests that the superstore's business strategies, cost management, and revenue generation efforts have been effective in driving profitability.
+
 
 #### WHICH YEAR DID SUPERSTORE GAVE MORE DISCOUNT?
 This task was done by placing the "discount" column in the "Values" section of the pivot table, while the "Order Date" column was placed in the "Rows" section of the pivot table field. By doing so, the pivot table automatically aggregated the data, providing the sum of profit for order, then when ahead to “Group” area on the ribbon to group the order made yearly to achieve the profit made yearly. Then pivot chart was included to give a virtual representation of the data
@@ -76,14 +85,7 @@ This task was done by placing the "Quantity" column in the "Values" section of t
 
 This analysis shows that the office Supplies category is the category with the highest numbers of quantity sold, reaching 6,026 items. This indicates that customers tend to purchase a larger volume of office-related products. Furniture and Technology categories follow with 2,121 and 1,847 items sold, respectively. While these categories have lower quantities sold compared to Office Supplies, they still make significant contributions to the overall sales.
 
-#### IN WHAT YEAR DID THE SUPERSTORE MADE MORE PROFIT?
-This task was done by placing the "Profit" column in the "Values" section of the pivot table, while the "Order Date" column was placed in the "Rows" section of the pivot table field. By doing so, the pivot table automatically aggregated the data, providing the sum of profit for order, then when ahead to “Group” area on the ribbon to group the order made yearly to achieve the profit made yearly. Then pivot chart was used to give a visual representation of the data
 
-![](profit.jpg)
-
--	Insight 
-
-This shows that the year 2017 stands out with the highest profit of $93,439. This indicates a strong financial performance and potential for continued growth in the subsequent years. From 2014 to 2017, there is a positive trend in profit growth, indicating the superstore's improving financial performance.  The increasing profit trend suggests that the superstore's business strategies, cost management, and revenue generation efforts have been effective in driving profitability.
 
 ## KPI
 
