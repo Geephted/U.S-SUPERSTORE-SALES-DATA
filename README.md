@@ -20,6 +20,14 @@ No duplicates were found, and incorrect column data types were changed to the ap
 
 The analysis of the U.S. Superstore Sales Data aims to gain valuable insights into the superstore's sales and operational performance. By exploring all relevant variables available in the dataset, several business questions were answered to better understand and optimize the superstore's operations. Here are a few such questions:
 
+- Identify the top 5 selling products and bottom 5 selling products in terms of revenue generated
+- In what year did the superstore made more profit?
+- Which year did superstore gave more discount
+- Determine the highest revenue generating regions and segments?
+- Identify the 5 most valuable customer in terms of total spending
+- Identify the most popular product categories based on the quantity sold
+
+
 #### IDENTIFY THE TOP 5 SELLING PRODUCTS AND BOTTOM 5 SELLING PRODUCTS IN TERMS OF REVENUE GENERATED.
 This task was done by dragging the "Total Revenue" column in the "Values" section of the pivot table, while the "Product Name" column was placed in the "Rows" section of the pivot table field. By doing so, the pivot table automatically aggregated the data, providing the sum of revenue for each product sold. Then pivot chart was used to give a virtual representation of the data.
 
