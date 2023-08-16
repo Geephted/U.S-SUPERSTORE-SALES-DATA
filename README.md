@@ -115,10 +115,10 @@ This analysis was done using Microsoft Excel
 The analysis carried out on the U.S. Superstore Sales Data provided valuable insights into various aspects of the superstore's sales and operational performance. By leveraging these insights the superstore can stay competitive, improve profitability, and continue to provide exceptional products and services to its customers.
 
 ## Recommendations 
-- For the top-selling products, consider increasing stock levels to meet high demand consistently. For the bottom-selling products, evaluate their relevance in the market and consider reducing inventory levels to free up storage space and financial resources.
-- Conduct a comprehensive analysis of the factors that contributed to the most profitable year. Look into discounts, sales figures, cost structures, and operational efficiencies to pinpoint what led to increased profitability.
-- Focus on sustainable discounting practices that enhance customer loyalty without overreliance on heavy discounts. Balance discounts with other value-added services.
-- Consider expanding your presence in the low revenue generating regions. Allocate resources to penetrate and capitalize on markets where your products are not performing well.
-- Create loyalty programs or exclusive offers for the most valuable customers. Recognize their loyalty with special discounts, early access to products, or VIP events.
+- For the top-selling products,the management should consider increasing stock levels to meet high demand consistently. For the bottom-selling products, evaluate their relevance in the market and consider reducing inventory levels to free up storage space and financial resources.
+- The management should conduct a comprehensive analysis of the factors that contributed to the most profitable year. Look into discounts, sales figures, cost structures, and operational efficiencies to pinpoint what led to increased profitability.
+- The management should focus on sustainable discounting practices that enhance customer loyalty without overreliance on heavy discounts. Balance discounts with other value-added services.
+- The management should consider expanding your presence in the low revenue generating regions. Allocate resources to penetrate and capitalize on markets where your products are not performing well.
+- The management should create loyalty programs or exclusive offers for the most valuable customers. Recognize their loyalty with special discounts, early access to products, or VIP events.
 
 
