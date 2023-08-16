@@ -44,7 +44,7 @@ The low revenue figures indicate that these products may not be in high demand a
 #### IN WHAT YEAR DID THE SUPERSTORE MADE MORE PROFIT?
 This task was done by placing the "Profit" column in the "Values" section of the pivot table, while the "Order Date" column was placed in the "Rows" section of the pivot table field. By doing so, the pivot table automatically aggregated the data, providing the sum of profit for order, then when ahead to “Group” area on the ribbon to group the order made yearly to achieve the profit made yearly. Then pivot chart was used to give a visual representation of the data
 
-![](mostprofit.jpg)
+![](mostprofit1.jpg)
 
 -	Insight 
 
